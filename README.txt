@@ -17,12 +17,6 @@ py setup.py install
 
 ■ファイル・ディレクトリ説明
 
-XXXXの部分には
-plyers:選手別データ
-results:成績表
-timetable:番組表
-のいづれかが入ります。
-
 XXXX_lzh:lzhのダウンロード先です。　
 XXXX_txt:解凍されたlzhファイルの保存先です。
 XXXX_csv:　csvファイルが出力されます。
@@ -30,6 +24,12 @@ XXXX_csv:　csvファイルが出力されます。
 download_xxxx:サイトから、lzhファイルをダウンロードします。
 unlzh_xxxx:lzhファイルを解凍します。
 txtTocsv_xxxx:ttxtファイルをcsvに変換します。
+
+XXXXの部分には
+plyers:選手別データ
+results:成績表
+timetable:番組表
+のいづれかが入ります。
 
 ■使用方法
 
